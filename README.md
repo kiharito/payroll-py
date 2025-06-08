@@ -3,5 +3,5 @@
 ## 実行方法
 
 ```shell
-uv run fastapi run main.py
+uv run fastapi dev app/main.py
 ```
